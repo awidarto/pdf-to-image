@@ -1,6 +1,6 @@
 {
-    "name": "drenso/pdf-to-image",
-    "description": "Convert a pdf to an image",
+    "name": "awidarto/pdf-to-image",
+    "description": "Convert a pdf to an image. forked from Drenso/pdf-to-image to support php 7.4",
     "keywords": [
         "pdf-to-image",
         "pdf",
